@@ -1,4 +1,4 @@
-# River Deep Mountain AI
+# River Deep Mountain AI :ocean:
 [River Deep Mountain AI](https://www.cognizant.com/us/en/industries/ocean/rdmai) is an innovation project funded by the Ofwat Innovation Fund working collaboratively to develop open-source AI/ML models that can inform effective actions to tackle waterbody pollution.  
   
 The UK’s water environment is under huge pressure from population growth, climate change and pollution. With 85% of English rivers currently failing to meet the Water Framework Directive’s requirements for ecological health, it’s estimated that as many as three rivers in four could pose a risk to human health. 
