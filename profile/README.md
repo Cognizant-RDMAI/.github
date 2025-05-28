@@ -5,7 +5,7 @@ The UK’s water environment is under huge pressure from population growth, clim
 
 Confronted with challenges of this scale and complexity, the water sector needs innovative solutions to protect the health of our rivers and ensure clean water for future generations. 
 
-This is why Northumbrian Water, in close collaboration with Cognizant Ocean, Xylem, WRc, ADAS, The Rivers Trust, Stream and six supporting water companies, are embarking on an exciting journey funded by the Ofwat Innovation Fund. The goal: To revolutionise insights into river health and water quality using state-of-the-art artificial intelligence (AI), machine learning (ML) and remote sensing technologies.  
+This is why [Northumbrian Water](https://www.nwl.co.uk/), in close collaboration with [Cognizant Ocean](https://www.cognizant.com/dk/en/industries/ocean), [Xylem](https://www.xylem.com/en-uk/), [WRc](https://www.wrcgroup.com/), [ADAS](https://adas.co.uk/), [The Rivers Trust](https://theriverstrust.org/), [Stream](https://www.streamwaterdata.co.uk/) and six supporting water companies, have embarked on an exciting journey funded by the Ofwat Innovation Fund. The goal: To revolutionise insights into river health and water quality using state-of-the-art artificial intelligence (AI), machine learning (ML) and remote sensing technologies.  
 
 ## The scope
 The scope of RDMAI model development has been selected based on environmental impact, stakeholder needs, scalability and the potential of AI to provide benefits over current approaches. The project focus is divided into three themes: 
