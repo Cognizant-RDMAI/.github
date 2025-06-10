@@ -21,7 +21,9 @@ The scope of RDMAI model development has been selected based on environmental im
 :earth_americas: [**Open Risk Map:**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
   
 
-All AI/ML and remote sensing models from RDMAI are currently under development. The first version has been released open-source, and the second versions will be released towards the end of the project, in November 2025. 
+:eyes: More models coming soon... We are working on several other models in parallel, which will be released in the coming months.
+
+All AI/ML and remote sensing models from RDMAI are still under development and the second versions will be released towards the end of the project, in November 2025. 
 
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
