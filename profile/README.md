@@ -7,14 +7,21 @@ Confronted with challenges of this scale and complexity, the water sector needs 
 
 This is why [Northumbrian Water](https://www.nwl.co.uk/), in close collaboration with [Cognizant Ocean](https://www.cognizant.com/dk/en/industries/ocean), [Xylem](https://www.xylem.com/en-uk/), [WRc](https://www.wrcgroup.com/), [ADAS](https://adas.co.uk/), [The Rivers Trust](https://theriverstrust.org/), [Stream](https://www.streamwaterdata.co.uk/) and six supporting water companies, have embarked on an exciting journey funded by the Ofwat Innovation Fund. The goal: To revolutionise insights into river health and water quality using state-of-the-art artificial intelligence (AI), machine learning (ML) and remote sensing technologies.  
 
-## The scope
-The scope of RDMAI model development has been selected based on environmental impact, stakeholder needs, scalability and the potential of AI to provide benefits over current approaches. The project focus is divided into three themes: 
+## The models
+The scope of RDMAI model development has been selected based on environmental impact, stakeholder needs, scalability and the potential of AI to provide benefits over current approaches. As part of an early release, we have open sourced the first iteration of five AI/ML and remote sensing models: 
 
-- **Theme 1:** Modelling high-priority pollutants.
-- **Theme 2:** Designing an optimised monitoring plan.  
-- **Theme 3:** Getting more value from continuous monitoring.  
+:cyclone: [**Open Flow Model:**](https://github.com/Cognizant-RDMAI/Open-Flow-Model) Using AI/ML to estimate daily mean river flow in ungauged rivers.
 
-Within each themes, multiple AI/ML models are currently under development. The first version of the models has already been released open-source here, and the second version towards the end of the project, in November 2025. 
+:ocean: [**Open E. coli Model:**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
+
+:globe_with_meridians: [**Open Slurry Tank Detection Model:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using computer vision and remote sensing to create novel datasets of circular slurry tanks.
+
+:ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland.
+
+:earth_americas: [**Open Risk Map:**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
+  
+
+All AI/ML and remote sensing models from RDMAI are currently under development. The first version has been released open-source, and the second versions will be released towards the end of the project, in November 2025. 
 
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
