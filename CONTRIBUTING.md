@@ -1,18 +1,26 @@
-# Contributing
+## Contributor Guidelines
+At this time, we do not provide a Contributor License Agreement (CLA). By submitting feedback or suggestions, you grant us permission to use and incorporate your input into the project, where appropriate. All contributions will be reviewed by the internal team, and only those deemed feasible and value-adding will be considered.
 
-Thank you for considering contributing to the model! We welcome contributions of all kinds and appreciate your interest in improving the project.
+## Reporting Issues
+If you encounter a bug or have a technical concern, please report it by opening a GitHub Issue. When reporting, please include:
+ - A clear and descriptive title
+ - A detailed explanation of the issue or suggestion
+ - Steps to reproduce the problem (if applicable)
+ - Any relevant logs, screenshots, or error messages
 
-Currently, there is no Contributor License Agreement provided for this project. By contributing to this project, you agreed to providing us permission to use and redistribute your contributions as part of the project. The team will consider comments and suggestions and incorporate as and when feasible and value adding.
+## Suggesting Enhancements
+We appreciate ideas for improving the model or the overall project. To suggest an enhancement:
+ - Use a clear and concise title
+ - Provide a detailed explanation of the suggestion
+ - Describe the potential benefits or use cases
+ - Share any examples, references, or mockups if available
 
-If you encounter a bug or have a feature request, please contact the Cognizant partner to report an issue. When reporting an issue, please include:
+## Code Contributions
+At this time, external code contributions are not permitted.
 
-- A clear and descriptive title.
-- A detailed description of the problem or suggestion.
-- Steps to reproduce the issue (if applicable).
-- Any relevant logs, screenshots, or error messages.
+For internal contributors:
+- Follow existing code structure and formatting practices
+- Use meaningful commit messages
+- Add comments where necessary, especially for non-trivial code logic
 
-We welcome suggestions for new features or improvements. To suggest an enhancement:
-
-- A clear and descriptive title.
-- A detailed explanation of the enhancement.
-- Any benefits or use cases for the enhancement.
+FYI: The standard Git Hub code of conduct is included here for reference https://www.contributor-covenant.org/
