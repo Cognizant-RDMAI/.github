@@ -16,12 +16,13 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :globe_with_meridians: [**Open Slurry Tank Detection Model:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using computer vision and remote sensing to create novel datasets of circular slurry tanks.
 
-:ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland. --->
+--->
+:ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland.
 
 :earth_americas: [**Open Risk Map:**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
   
 
-:eyes: More models coming soon... We are working on several other models in parallel, which will be released in the coming weeks. This includes models capable of forecasting *E. coli* risks, mapping slurry tanks and detecting bare cropland.
+:eyes: More models coming soon... We are working on several other models in parallel, which will be released in the coming weeks. This includes models capable of forecasting *E. coli* risks, mapping slurry tanks and monitoring orthophoshpate.
 
 All AI/ML and remote sensing models from RDMAI are still under development and the second versions will be released towards the end of the project, in November 2025. 
 
