@@ -28,7 +28,3 @@ All AI/ML and remote sensing models from RDMAI are still under development and t
 
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
-
-### Do you want to collaborate in person? 🌻
-Join us at this year's Innovation Festival, hosted by Northumbrian Water, where we will be organising a 5-day sprint focused on turning our AI/ML and remote sensing models into business-as-usual.
-Sign-up now: https://www.innovationfestival.org/the-festival/sprints/cognizant/ 
