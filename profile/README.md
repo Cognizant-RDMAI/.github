@@ -22,7 +22,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :earth_americas: [**Open Risk Map:**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
 
-:earth_americas: [**Open Orthophosphate Model:**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations.
+:droplet: [**Open Orthophosphate Model:**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
 
 :eyes: More models coming soon... We are working on several other models in parallel, which will be released in the coming weeks. This includes models capable of mapping slurry tanks and identifying poached fields.
 
