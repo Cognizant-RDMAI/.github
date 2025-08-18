@@ -22,7 +22,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :droplet: [**Open Orthophosphate Model:**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
 
-:globe_with_meridians: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection) Leveraging machine learning and remote sensing to detect soil degradation 
+:globe_with_meridians: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection) Leveraging machine learning and remote sensing to detect soil degradation.
 
 All AI/ML and remote sensing models from RDMAI are still under development and the second versions will be released towards the end of the project, in November 2025. 
 
