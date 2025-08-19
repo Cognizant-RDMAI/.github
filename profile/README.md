@@ -14,7 +14,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :ocean: [**Open E. coli Model:**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
 
-:globe_with_meridians: [**Open Slurry Tank Detection Model:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map slurry tanks across river catchments.
+:globe_with_meridians: [**Open Slurry Tank Detection:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map slurry tanks across river catchments.
 
 :ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland.
 
@@ -22,7 +22,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :droplet: [**Open Orthophosphate Model:**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
 
-:globe_with_meridians: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
+:seedling: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
 
 All AI/ML and remote sensing models from RDMAI are still under development and the second versions will be released towards the end of the project, in November 2025. 
 
