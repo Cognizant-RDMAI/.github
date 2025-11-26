@@ -24,7 +24,6 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :seedling: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
 
-All AI/ML and remote sensing models from RDMAI are still under development and the second versions will be released towards the end of the project, in November 2025. 
-
+The second version of AI/ML and remote sensing models from RDMAI will be released from 27 November 2025 onwards
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
