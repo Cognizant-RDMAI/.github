@@ -10,9 +10,9 @@ This is why [Northumbrian Water](https://www.nwl.co.uk/), in close collaboration
 ## The models
 The scope of RDMAI model development has been selected based on environmental impact, stakeholder needs, scalability and the potential of AI to provide benefits over current approaches. As part of an early release, we have open sourced the first batch of AI/ML and remote sensing models. This includes: 
 
-:cyclone: [**Open Flow Model:**](https://github.com/Cognizant-RDMAI/Open-Flow-Model) Using AI/ML to estimate daily mean river flow in ungauged rivers.
+:cyclone: [**Open Flow Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Flow-Model) Using AI/ML to estimate daily mean river flow in ungauged rivers.
 
-:ocean: [**Open E. coli Model:**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
+:ocean: [**Open E. coli Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
 
 :globe_with_meridians: [**Open Slurry Tank Detection:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map slurry tanks across river catchments.
 
