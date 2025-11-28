@@ -16,7 +16,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :globe_with_meridians: [**Open Slurry Tank Detection:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map circular slurry tanks across river catchments.
 
-:ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland.
+:ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify bare cropland.
 
 :earth_americas: [**Open Risk Map:**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
 
