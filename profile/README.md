@@ -14,7 +14,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :ocean: [**Open E. coli Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
 
-:globe_with_meridians: [**Open Slurry Tank Detection:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map slurry tanks across river catchments.
+:globe_with_meridians: [**Open Slurry Tank Detection:**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map circular slurry tanks across river catchments.
 
 :ear_of_rice: [**Open Bare Cropland Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify winter bare cropland.
 
