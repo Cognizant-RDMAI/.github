@@ -20,10 +20,9 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :earth_americas: [**Open Risk Map (v2):**](https://github.com/Cognizant-RDMAI/Open-Risk-Map) Collating catchment data to map pollution hotspots and risk areas.  
 
-:droplet: [**Open Orthophosphate Model:**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
+:droplet: [**Open Orthophosphate Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
 
 :seedling: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
 
-The second version of AI/ML and remote sensing models from RDMAI will be released from 27 November 2025 onwards
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
