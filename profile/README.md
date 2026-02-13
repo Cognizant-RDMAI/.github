@@ -14,7 +14,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :ocean: [**Open E. coli Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Ecoli-Models) Using AI/ML to predict E. coli concentrations and risks in bathing waters.  
 
-:globe_with_meridians: [**Open Slurry Tank Detection (v2):**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map circular slurry tanks across river catchments.
+:globe_with_meridians: [**Open Slurry Tank Detection Model (v2):**](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model) Using remote sensing and computer vision to identify and map circular slurry tanks across river catchments.
 
 :ear_of_rice: [**Open Bare Cropland Detection Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Bare-Cropland-Detection-Model) Using remote sensing to identify bare cropland.
 
@@ -22,7 +22,10 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :droplet: [**Open Orthophosphate Model (v2):**](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model) Using AI/ML to predict Orthophosphate concentrations in river catchments.
 
-:seedling: [**Open Poached Land Detection:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
+:seedling: [**Open Poached Land Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
+
+📈 [**Open Anamoly Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Anamoly-Detection-Model) Leveraging unsupervised machine learning and signal processing to cluster and interpret anomalies in river water.
+
 
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
