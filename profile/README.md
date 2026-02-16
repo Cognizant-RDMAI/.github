@@ -24,7 +24,7 @@ The scope of RDMAI model development has been selected based on environmental im
 
 :seedling: [**Open Poached Land Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Poached-Land-Detection-Model) Leveraging machine learning and remote sensing to detect soil degradation.
 
-📈 [**Open Anomaly Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Anomaly-Detection-Model) Leveraging unsupervised machine learning and signal processing to cluster and interpret anomalies in river water.
+📈 [**Open Anomaly Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Anomaly-Detection-Model) Leveraging unsupervised machine learning and signal processing to cluster and interpret anomalies in continuous river water quality data.
 
 
 ## Collaboration
