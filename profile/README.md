@@ -27,5 +27,14 @@ The scope of RDMAI model development has been selected based on environmental im
 📈 [**Open Anomaly Detection Model:**](https://github.com/Cognizant-RDMAI/Open-Anomaly-Detection-Model) Leveraging unsupervised machine learning and signal processing to cluster and interpret anomalies in continuous river water quality data.
 
 
+## Supporting materials
+Besides developing 8 open source models and their related supporting materials, we have also published four additional reports:
+- [**Stakeholder engagement:**]() Two reports detailing the research and stakeholder engagement completed throughout the project.
+- [**Funding handbook:**]() An accompanying guide to the River Deep Mountain
+AI funding sources database
+- [**Use cases:**]() Four reports outlining use cases of how River Deep Mountain AI can be applied inside the water sector.
+- [**Data catalogue:**]() An overview of all the datasets used for training, testing, validating and benchmarking our models.
+
+
 ## Collaboration
 In River Deep Mountain AI we believe that solutions to big challenges come through collaboration, transparency and a systemic approach. These principles underpin the project throughout and we have implemented several ways of working that help to support this. These include; cross-sector partnerships, co-creation with stakeholders, building for scale, and most importantly knowledge-sharing. 
