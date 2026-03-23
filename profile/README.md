@@ -29,11 +29,11 @@ The scope of RDMAI model development has been selected based on environmental im
 
 ## Supporting materials
 Besides developing 8 open source models and their related supporting materials, we have also published four additional reports:
-- [**Stakeholder engagement:**]() Two reports detailing the research and stakeholder engagement completed throughout the project.
-- [**Funding handbook:**]() An accompanying guide to the River Deep Mountain
+- [**Stakeholder engagement:**](https://github.com/Cognizant-RDMAI/.github/tree/main/supporting-materials) Two reports detailing the research and stakeholder engagement completed throughout the project.
+- [**Funding handbook:**](https://github.com/Cognizant-RDMAI/.github/tree/main/supporting-materials) An accompanying guide to the River Deep Mountain
 AI funding sources database
-- [**Use cases:**]() Four reports outlining use cases of how River Deep Mountain AI can be applied inside the water sector.
-- [**Data catalogue:**]() An overview of all the datasets used for training, testing, validating and benchmarking our models.
+- [**Use cases:**](https://github.com/Cognizant-RDMAI/.github/tree/main/supporting-materials) Four reports outlining use cases of how River Deep Mountain AI can be applied inside the water sector.
+- [**Data catalogue:**](https://github.com/Cognizant-RDMAI/.github/tree/main/supporting-materials) An overview of all the datasets used for training, testing, validating and benchmarking our models.
 
 
 ## Collaboration
